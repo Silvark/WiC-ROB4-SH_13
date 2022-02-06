@@ -1,4 +1,4 @@
-# Wilson Crochet, ROB4
+# WiC, ROB4
 # SH13
 
 En addendum, voici ma proposition d'explication quant à l'utilité des variables fsm et synchro :
